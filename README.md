@@ -1,4 +1,4 @@
-![citibike Image]()
+![citibike Image](images/CityBike.png)
 # Data_Analysis_NYCitiBike
 Data Analysis of NY Citi Bike for a project using Excel and google docs
 
