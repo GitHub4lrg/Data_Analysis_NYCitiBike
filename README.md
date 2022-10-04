@@ -42,7 +42,7 @@ We then continued with the exploratory data analysis, used descriptivive estatis
 Finally using those pivot tables we created vizualizations of our findings, and created a scatter plot looking for some correlation to respond our last question.
 With all those charts in hand we were able to communicate in a simple way a response to our questions, and proposed some actions to take based on our findings.
 
-Excel was used to Analyze this dataset. To explore this work, follow this [link]()
+Excel was used to Analyze this dataset. To explore this work, follow this [link](https://docs.google.com/spreadsheets/d/1uePgXJGjckMsCYl1p4EpJ7I4j5tmK-QWfv_zjBSfyXQ/edit?usp=sharing)
 
 ## Conclusions
 
@@ -65,7 +65,7 @@ Excel was used to Analyze this dataset. To explore this work, follow this [link]
 
 ## Presentation
 
-We used Google slide for storytelling to make our presentation as a simple and visually appealing tools. To view our presentation, follow the [link]()
+We used Google slide for storytelling to make our presentation as a simple and visually appealing tools. To view our presentation, follow the [link](https://docs.google.com/presentation/d/e/2PACX-1vTYuAAVZBK1Rs_pM58I5RIR6EOsiDE4bvHZYJy5jqeX6qOa4IVr849QJKhuNG6c2gWHRyHhnepLYG_G/pub?start=true&loop=false&delayms=3000)
 
 ## Contact
 
